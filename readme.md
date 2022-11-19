@@ -1,4 +1,4 @@
 # Curso Java inicial con Spring
 
 Desafíos entregables:
-- [Manejo de datos tipo float](https://breakdance.github.io/breakdance/)
+- [Manejo de dos tipo float](https://github.com/diegograssino/coderhouse-java-spring/tree/desafio1)
