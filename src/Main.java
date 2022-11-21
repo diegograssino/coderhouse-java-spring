@@ -1,8 +1,8 @@
 public class Main {
 
   public static void main(String[] args) {
-    float number = 3.14f;
-    float decimalPart = number % 1;
+    double number = 3.14;
+    float decimalPart = (float) (number % 1);
     int integerPart = (int) number;
 
     System.out.println(
